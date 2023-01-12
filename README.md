@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+
+My name is Camille and I'm currently trying to become a programmer :)
+
+
 
 <!--
 **csscami/csscami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
