@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Camille and I'm currently trying to become a programmer :)
+My name is Camille, I'm 18 years old and I'm currently trying to become a programmer :)
 
 
 
