@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Camille, I'm 19 years old and I'm currently trying to become a programmer :)
+Olá, me chamo Camille, sou estudante de Análise e desenvolvimento de sistemas na Universidade Católica de Brasília.
 
 
 
